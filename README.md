@@ -13,22 +13,21 @@ korrigiert oder falls nötig neu erstellt werden.
 
 Folgende wichtige Funktionen wurden im Gespräch mit dem Auftraggeber identifiziert:
 
-  - Kontakte verwalten:
 
-  -- Verfügbare Kontakte anzeigen
+  1. Kontakte verwalten: 
+  ⋅⋅- Verfügbare Kontakte anzeigen
+  ⋅⋅- Kontakte erstellen
+  ⋅⋅- Kontakte löschen
   
-  -- Kontakte erstellen
+  2. Kontakte kategorisieren:
+  ⋅⋅- Kontakte finden
+  ⋅⋅- Filtern nach Kategorie
+  ⋅⋅- Freitextsuche über alle Kontaktinformationen
   
-  -- Kontakte löschen
+  3. Kontakte teilen:
+  ⋅⋅- Kontakte exportieren
+  ⋅⋅- Kontakte importieren
 
-  - Kontakte kategorisieren
-  -- Kontakte finden
-  -- Filtern nach Kategorie
-  -- Freitextsuche über alle Kontaktinformationen
-
-  - Kontakte teilen:
-  -- Kontakte exportieren
-  -- Kontakte importieren
 
 Projektbeschreibung
 
@@ -38,15 +37,15 @@ Dazu müssen Sie die Lieferungen mit priorisierten Funktionen abstimmen und plan
 
 Tools und Frameworks:
 
-  - laut Vorgabe:
-  -- Apache Maven
-  -- Apache Log4J
-  -- Java 1.7
-  -- JUnit 4.11 mit Mockito
+  1. laut Vorgabe:
+  ⋅⋅- Apache Maven
+  ⋅⋅- Apache Log4J
+  ⋅⋅- Java 1.7
+  ⋅⋅- JUnit 4.11 mit Mockito
 
-  - zusätzliche Tools und Frameworks:
-  -- JavaFX (GUI)
-  -- openCSV (import, export from file)
+  2. zusätzliche Tools und Frameworks:
+  ⋅⋅- JavaFX (GUI)
+  ⋅⋅- openCSV (import, export from file)
 
 
 Die Entwicklung muss gemäß anerkannter Software Engineering Prinzipien und Me-
