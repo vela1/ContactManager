@@ -13,39 +13,20 @@ korrigiert oder falls nötig neu erstellt werden.
 
 Folgende wichtige Funktionen wurden im Gespräch mit dem Auftraggeber identifiziert:
 
-1. First ordered list item
-2. Another item
-⋅⋅* Unordered sub-list. 
-1. Actual numbers don't matter, just that it's a number
-⋅⋅1. Ordered sub-list
-4. And another item.
 
-⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
+- Basisfunktionen:
 
-⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
-⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
-⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
+1. Kontakte anzeigen
+2. Kontakte erstellen
+3. Kontakte löschen
+4. Kontakte finden über alle Kontaktinforamtionen
+5. Kontakte filtern nach Kategorie
+6. Kontakte exportieren (csv, später datenbank)
+7. Kontakte importieren (csv, später datenbank)
 
-* Unordered list can use asterisks
-- Or minuses
-+ Or pluses
+- Featurefunktionen:
 
-
-
-
-1. Kontakte verwalten: 
-⋅⋅*Verfügbare Kontakte anzeigen
-⋅⋅*Kontakte erstellen
-⋅⋅*Kontakte löschen
-  
-  2. Kontakte kategorisieren:
-  ⋅⋅- Kontakte finden
-  ⋅⋅- Filtern nach Kategorie
-  ⋅⋅- Freitextsuche über alle Kontaktinformationen
-  
-  3. Kontakte teilen:
-  ⋅⋅- Kontakte exportieren
-  ⋅⋅- Kontakte importieren
+8. Manager Info
 
 
 Projektbeschreibung
@@ -57,22 +38,28 @@ Dazu müssen Sie die Lieferungen mit priorisierten Funktionen abstimmen und plan
 Tools und Frameworks:
 
   1. laut Vorgabe:
-  ⋅⋅- Apache Maven
-  ⋅⋅- Apache Log4J
-  ⋅⋅- Java 1.7
-  ⋅⋅- JUnit 4.11 mit Mockito
+  - Apache Maven
+  - Apache Log4J
+  - Java 1.7
+  - JUnit 4.11 mit Mockito
 
   2. zusätzliche Tools und Frameworks:
-  ⋅⋅- JavaFX (GUI)
-  ⋅⋅- openCSV (import, export from file)
+  - JavaFX (GUI)
+  - openCSV (import, export from file)
 
 
-Die Entwicklung muss gemäß anerkannter Software Engineering Prinzipien und Me-
-thoden erfolgen. Dazu zählen u.a.: Anforderungsmanagement, Erstellung und Pflege
-von Unit Tests, Bereitstellung passender Testdaten, Beachtung von OO-Entwurfs-
-prinzipien wie „Don‘t Repeat Yourself“, Separation of Concerns, Single Responsibili-
-ty Principle, Modularisierung, Kapselung und Wiederverwendung (u.a. durch Einsatz
-von Entwurfsmustern) etc.
+Die Entwicklung muss gemäß anerkannter Software Engineering Prinzipien und Methoden erfolgen. 
+Dazu zählen u.a.: 
+
+- Anforderungsmanagement
+- Erstellung
+- Pflege von Unit Tests
+- Bereitstellung passender Testdaten
+- Beachtung von OO-Entwurfsprinzipien wie „Don‘t Repeat Yourself“
+- Separation of Concerns
+- Single Responsibility Principle
+- Modularisierung
+- Kapselung und Wiederverwendung (u.a. durch Einsatz von Entwurfsmustern) etc.
 
 
 
