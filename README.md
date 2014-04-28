@@ -13,53 +13,49 @@ korrigiert oder falls nötig neu erstellt werden.
 
 Folgende wichtige Funktionen wurden im Gespräch mit dem Auftraggeber identifiziert:
 
+##### Basisfunktionen:
+- Kontakte anzeigen
+- Kontakte erstellen
+- Kontakte löschen
+- Kontakte finden über alle Kontaktinforamtionen
+- Kontakte filtern nach Kategorie
+- Kontakte exportieren (csv, später datenbank)
+- Kontakte importieren (csv, später datenbank)
 
-- Basisfunktionen:
-
-1. Kontakte anzeigen
-2. Kontakte erstellen
-3. Kontakte löschen
-4. Kontakte finden über alle Kontaktinforamtionen
-5. Kontakte filtern nach Kategorie
-6. Kontakte exportieren (csv, später datenbank)
-7. Kontakte importieren (csv, später datenbank)
-
-- Featurefunktionen:
-
-8. Manager Info
+##### Feature Funktionen:
+- Manager Info
 
 
 Projektbeschreibung
+------
 
 Die Entwicklung erfolgt versioniert (Git!) in Teams mit 2-3 Mitgliedern. Die Liefe-
 rung(en) erfolgen in mehreren Versionen aufgeteilt (vgl. Sprints od. Meilensteine).
 Dazu müssen Sie die Lieferungen mit priorisierten Funktionen abstimmen und planen!
 
-Tools und Frameworks:
-
-  1. laut Vorgabe:
-  - Apache Maven
-  - Apache Log4J
-  - Java 1.7
-  - JUnit 4.11 mit Mockito
-
-  2. zusätzliche Tools und Frameworks:
-  - JavaFX (GUI)
-  - openCSV (import, export from file)
+##### Tools und Frameworks (Vorgabe):
+- Apache Maven
+- Apache Log4J
+- Java 1.7
+- JUnit 4.11 mit Mockito
+  
+###### (zusätzliche Tools und Frameworks:)
+- JavaFX (GUI)
+- openCSV (import, export from file)
 
 
 Die Entwicklung muss gemäß anerkannter Software Engineering Prinzipien und Methoden erfolgen. 
 Dazu zählen u.a.: 
 
-- Anforderungsmanagement
-- Erstellung
-- Pflege von Unit Tests
-- Bereitstellung passender Testdaten
-- Beachtung von OO-Entwurfsprinzipien wie „Don‘t Repeat Yourself“
-- Separation of Concerns
-- Single Responsibility Principle
-- Modularisierung
-- Kapselung und Wiederverwendung (u.a. durch Einsatz von Entwurfsmustern) etc.
+  - Anforderungsmanagement
+  - Erstellung
+  - Pflege von Unit Tests
+  - Bereitstellung passender Testdaten
+  - Beachtung von OO-Entwurfsprinzipien wie „Don‘t Repeat Yourself“
+  - Separation of Concerns
+  - Single Responsibility Principle
+  - Modularisierung
+  - Kapselung und Wiederverwendung (u.a. durch Einsatz von Entwurfsmustern) etc.
 
 
 
