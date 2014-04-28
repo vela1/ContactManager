@@ -16,9 +16,9 @@ Folgende wichtige Funktionen wurden im Gespräch mit dem Auftraggeber identifizi
 
 1. Kontakte verwalten: 
 
-⋅⋅- Verfügbare Kontakte anzeigen
-⋅⋅- Kontakte erstellen
-⋅⋅- Kontakte löschen
+⋅⋅* Verfügbare Kontakte anzeigen
+⋅⋅* Kontakte erstellen
+⋅⋅* Kontakte löschen
   
   2. Kontakte kategorisieren:
   ⋅⋅- Kontakte finden
