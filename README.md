@@ -14,9 +14,12 @@ korrigiert oder falls nötig neu erstellt werden.
 Folgende wichtige Funktionen wurden im Gespräch mit dem Auftraggeber identifiziert:
 
   - Kontakte verwalten:
-  -- Verfügbare Kontakte anzeigen
-  -- Kontakte erstellen
-  -- Kontakte löschen
+
+  - Verfügbare Kontakte anzeigen
+  
+  - Kontakte erstellen
+  
+  - Kontakte löschen
 
   - Kontakte kategorisieren
   -- Kontakte finden
